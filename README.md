@@ -1,7 +1,8 @@
 dnsmess
 =======
 An IPv4 DNS lookup/reverse lookup tool with full request/response output.  The
-DNS server user is hardcoded to Google Public DNS (see `dnsmess.h`).
+DNS server user is hardcoded to [Google Public DNS](https://developers.google.com/speed/public-dns)
+(see `dnsmess.h`).
 
 Usage
 -----
